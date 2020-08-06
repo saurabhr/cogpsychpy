@@ -3,6 +3,9 @@ import scipy as sp
 from scipy.stats import t
 import numpy as np
 
+# CREDITS: this script is written by github user <glesserd> (https://github.com/glesserd) 
+# Originally available at <https://gist.github.com/glesserd/406519a4a79a49efb2353cfe05bcc6ee>
+
 #from: http://www.cookbook-r.com/Graphs/Plotting_means_and_error_bars_%28ggplot2%29/
 ## Gives count, mean, standard deviation, standard error of the mean, and confidence interval (default 95%).
 ##   data: a data frame.
